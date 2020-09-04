@@ -1,4 +1,4 @@
-module github.com/gogo/status
+module github.com/duclm2609/status
 
 go 1.15
 
